@@ -1,30 +1,3 @@
-# Airlines price offers
-
-In the project directory, you can run:
-
-### `yarn install`
-
-### `yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-### Technology stack
-
-  1. React is used to build the UI
-  2. React Query is used to fetch the data like Rest API
-  3. react-router
-  4. emotion and tailwindcss is used to build design system
-  5. Jest is used for unit testing
-  6. MSW is used for to mock the api data
 # Airlines price offers - Testing Suite
 
 This directory contains e2e test suite based on [Cypress](https://www.cypress.io/), that can be used to verify basic scenarios of Airlines price offers App.
