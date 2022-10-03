@@ -32,7 +32,7 @@ yarn test
 ### Technology stack
 
   1. React is used to build the UI
-  2. React Query is used to fetch the data like Rest API
+  2. React Query is used to fetch the data
   3. react-router
   4. emotion and tailwindcss is used to build design system
   5. Jest is used for unit testing
