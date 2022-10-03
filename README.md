@@ -1,21 +1,32 @@
 # Airlines price offers
 
-In the project directory, you can run:
+# Getting Started
 
-### `yarn install`
+### Prerequisites
 
-### `yarn start`
+You'll need [Node](https://nodejs.org/en/), [Yarn](https://yarnpkg.com/en/).
+
+## Run the app
+
+```sh
+yarn install
+yarn start
+```
 
 Runs the app in the development mode.<br />
 Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Build the app
 
-### `yarn build`
+```sh
+yarn build
+```
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Run unit test
+
+```sh
+yarn test
+```
 
 ### Technology stack
 
@@ -25,6 +36,8 @@ It correctly bundles React in production mode and optimizes the build for the be
   4. emotion and tailwindcss is used to build design system
   5. Jest is used for unit testing
   6. MSW is used for to mock the api data
+  
+  
 # Airlines price offers - Testing Suite
 
 This directory contains e2e test suite based on [Cypress](https://www.cypress.io/), that can be used to verify basic scenarios of Airlines price offers App.
