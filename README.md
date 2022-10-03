@@ -9,6 +9,7 @@ You'll need [Node](https://nodejs.org/en/), [Yarn](https://yarnpkg.com/en/).
 ## Run the app
 
 ```sh
+cd app
 yarn install
 yarn start
 ```
@@ -49,9 +50,10 @@ This directory contains e2e test suite based on [Cypress](https://www.cypress.io
 
 ## Setup
 
-1. Run `nvm use` to use the proper Node.js version
-2. Run `npm install` to install required dependencies
-3. Run `npm test` to start Cypress and verify prepared scenarios
+1. Run `cd tests`
+2. Run `nvm use` to use the proper Node.js version
+3. Run `npm install` to install required dependencies
+4. Run `npm test` to start Cypress and verify prepared scenarios
 
 ## Test Scenarios
 
