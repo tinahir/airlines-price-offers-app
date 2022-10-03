@@ -52,8 +52,8 @@ This directory contains e2e test suite based on [Cypress](https://www.cypress.io
 
 1. Run `cd tests`
 2. Run `nvm use` to use the proper Node.js version
-3. Run `npm install` to install required dependencies
-4. Run `npm test` to start Cypress and verify prepared scenarios
+3. Run `yarn install` to install required dependencies
+4. Run `yarn test` to start Cypress and verify prepared scenarios
 
 ## Test Scenarios
 
